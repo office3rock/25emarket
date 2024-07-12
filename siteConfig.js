@@ -3,9 +3,9 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "25emarket", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "itai Liptz", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "25emarket", // This allows an alternative site description for meta data for pages.
+    "itai Liptz", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
@@ -88,10 +88,10 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "25emarket",
+  siteTitle: "itai Liptz",
   siteDescription:
-    "25emarket",
-  language: "he",
+    "itai Liptz",
+  language: "en",
   logoUrl: "",
   iconUrl: "",
   coverUrl: "cover.jpg",
